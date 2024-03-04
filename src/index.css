@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,
+input,
+textarea,
+button {
+  @apply font-normal text-base font-sans;
+}
+
+nav {
+  @apply flex flex-col gap-8;
+}
+nav a {
+  @apply flex gap-5 items-center text-xl;
+}
