@@ -1,30 +1,36 @@
-# React + TypeScript + Vite
+# Masterclass de Introdução ao React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém os arquivos e o código desenvolvido durante a Masterclass de Introdução ao React, oferecida pela Rockeseat. Durante esta masterclass, foram abordados os conceitos fundamentais do React, proporcionando uma base sólida para iniciar seus projetos com esta poderosa biblioteca JavaScript.
 
-Currently, two official plugins are available:
+## Sobre a Masterclass
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Nesta masterclass, aprendemos sobre os seguintes tópicos:
 
-## Expanding the ESLint configuration
+- Evolução da programação web, até o React que conhecemos.
+- Introdução ao React e sua importância no desenvolvimento web moderno.
+- Componentização e reutilização de código.
+- Estado e propriedades em componentes React.
+- Ciclo de vida dos componentes.
+- Gerenciamento de estado com useState e useEffect.
+- Trabalho com formulários e eventos.
+- Estilização de componentes.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Como Utilizar
 
-- Configure the top-level `parserOptions` property like this:
+Para utilizar este projeto, basta clonar este repositório em sua máquina local:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+```
+git clone https://github.com/seuusuario/masterclass-react-rockeseat.git
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Em seguida, você pode explorar os arquivos e estudar o código fonte para compreender os conceitos ensinados durante a masterclass.
+
+## Recursos Adicionais
+
+Além dos arquivos deste repositório, recomendo consultar a documentação oficial do React em [React Documentation](https://reactjs.org/docs) para uma compreensão mais abrangente dos conceitos apresentados.
+
+## Contribuição
+
+Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests com melhorias, correções de bugs ou novos recursos.
+
+Aproveite o aprendizado e bons estudos! 🚀
