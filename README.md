@@ -20,7 +20,7 @@ Nesta masterclass, aprendemos sobre os seguintes tópicos:
 Para utilizar este projeto, basta clonar este repositório em sua máquina local:
 
 ```
-git clone https://github.com/seuusuario/masterclass-react-rockeseat.git
+git clone https://github.com/devreyz/twitter-clone.git
 ```
 
 Em seguida, você pode explorar os arquivos e estudar o código fonte para compreender os conceitos ensinados durante a masterclass.
